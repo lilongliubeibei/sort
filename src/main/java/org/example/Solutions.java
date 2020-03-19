@@ -2,7 +2,7 @@ package org.example;
 
 /**
  * @author lilong
- * @create 2020-03-19
+ * @create 2020-03-20
  */
 public class Solutions {
     public static int InversePairs(int [] array) {
